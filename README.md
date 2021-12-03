@@ -1,2 +1,2 @@
 # Robustness-of-Interpretability-Methods
-Implementation of robustness score that quantifies the robustness of an explanation model. Based on the definition of “local Lipschitz continuity”.
+This implementation is based on the paper [On the Robustness of Interpretability Methods](https://arxiv.org/abs/1806.08049). It aim to quantify the robustness of an explanation model like e.g. LIME, using the definition of “local Lipschitz continuity”.
